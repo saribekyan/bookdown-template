@@ -40,6 +40,14 @@ Computing technology plays an important role in psychological research, and ther
 The website [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) lists many common programming problems and solutions for them across many different languages. It’s a great resource to get a sense of the breadth of programming languages, for examples of working code, and for problems to solve when learning to program.
 </div>
 
+<div class="marginnote todo">
+hello world $a + b$
+</div>
+
+<div class="marginnote todo">
+there must be a better way to do these todos :)
+</div>
+
 ### Algorithms
 
 Here are some questions you should have about algorithms. What are algorithms? What is algorithmic thinking/ what is an algorithmic approach to problem solving? How do you combine the programming concepts in the next sections to write algorithms for solving problems with code? How would you explain the concept of an algorithm to another person? And, can the problem I am trying to solve be answered with an algorithmic approach.

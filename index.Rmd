@@ -19,6 +19,13 @@ documentclass: book
 #github-repo: rstudio/bookdown-demo
 description: "description"
 ---
+<!-- 
+to serve the book:
+  bookdown::serve_book(dir = ".", output_dir = "_book", preview = TRUE, in_session = TRUE, quiet = TRUE)
+
+to kill:
+  servr::daemon_stop(1)
+-->
 
 # Preface {-}
 

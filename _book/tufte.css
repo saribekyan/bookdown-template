@@ -310,3 +310,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             pre { width: 90%;
                                        padding: 0; }
                             }
+
+.todo {
+  color: red
+}
